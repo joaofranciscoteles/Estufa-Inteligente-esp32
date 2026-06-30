@@ -236,9 +236,11 @@ Adicione posteriormente:
 
 ------------------------------------------------------------------------
 
-# 👨‍💻 Autor
+# 👨‍💻 Autores
 
 **João Teles**
+**Adrian Paiva**
+**Bruno Prado**
 
 Projeto desenvolvido para a disciplina de **Microcontroladores e
 Microprocessadores**.
